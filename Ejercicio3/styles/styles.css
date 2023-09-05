@@ -1,0 +1,32 @@
+#insta{
+    background-color: hotpink;
+    display: grid;
+    place-items: center;
+}
+#TikTok{
+    background-color: darkgray;
+    display: grid;
+    place-items: center;
+
+}
+
+#Face{
+    background-color:cornflowerblue;
+    display: grid;
+    place-items: center;
+
+}
+
+#Snap{
+    background-color: rgb(158, 124, 49);
+    display: grid;
+    place-items: center;
+
+}
+
+#Tele{
+    background-color:cyan;
+    display: grid;
+    place-items: center;
+
+}
