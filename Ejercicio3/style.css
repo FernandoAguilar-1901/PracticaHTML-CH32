@@ -1,0 +1,34 @@
+body{
+    display: grid;
+}
+.ig{
+    border: 10px solid black;
+}
+.IG-N{
+    display: flex;
+    background-color: #833ab4;
+
+}
+.IG-P{
+    background-color: #bb2d6f;
+}
+.IG-E{
+    background-color: #fd1d1d;
+}
+.IG-D{
+    background-color: #fc6932;
+}
+.IG-T{
+    background-color: #fcb045;
+}
+.IG-IM{
+    width: 04%;
+    height: 04%;
+}
+.IG-LI{
+    background-color: #000000;
+    color: #ffffff;
+}
+p{
+    margin: 0 0;
+}
