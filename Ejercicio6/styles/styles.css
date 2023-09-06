@@ -1,0 +1,31 @@
+h1 {
+    color: red;
+    display: grid;
+    place-items: center;
+}
+#Texto{
+    display: grid;
+    place-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Dark{
+    display: grid;
+    place-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Tropez{
+    display: grid;
+    place-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Wish{
+    display: grid;
+    place-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
